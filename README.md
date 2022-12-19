@@ -4,7 +4,7 @@
 В [TASK.md](./TASK.md) можно найти оригинальное техзадание.
 
 Репозиторий: https://github.com/hgenru/sumsub-task-giphy
-Плейграунд: https://stackblitz.com/edit/sumsub-task-giphy?file=README.md
+Плейграунд: https://stackblitz.com/edit/sumsub-task-giphy?file=md!README.md
 
 ## Стартуем проект
 
